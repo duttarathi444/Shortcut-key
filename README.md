@@ -1,0 +1,2 @@
+# Shortcut-key
+hotkey.js
